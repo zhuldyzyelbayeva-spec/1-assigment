@@ -96,11 +96,11 @@ assignment4-student-management/
 ├── README.md
 └── .gitignore
 
-## Screenshots
 
 ## Screenshots
 
-(<img width="1210" height="1303" alt="output" src="https://github.com/user-attachments/assets/9ade716e-8d77-4243-a810-183b39080609" />)
+Markdown: ![output photo](docs/screenshorts/output.png)
+](https://www.ilovepdf.com/ru/download/5gvy9k69vwAc00wb5l40v1b56yntc2yrwb5q11423lgyssmsdnA92wgvtmdy6pvqcrwtk1fg2A0bs5b58wt7x0sfnkvtystAnx9g176rhpyd8wpmdtd3Amkf1mA3w18f4q1r61r456fx1w0cxAl5qrv290vrjwtpzgvds20mbAg577ggxxwq/41)
 
 
 
