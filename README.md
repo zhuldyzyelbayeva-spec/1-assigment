@@ -100,7 +100,7 @@ assignment4-student-management/
 
 ## Screenshots
 
-![Program Output](docs/screenshots/output.png)
+![Program Output](docs/screenshots/Снимок экрана 2025-12-18 172554.png)
 
 
 
