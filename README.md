@@ -99,9 +99,7 @@ assignment4-student-management/
 
 ## Screenshots
 
-Markdown: ![output photo](docs/screenshorts/output.png)
-](https://www.ilovepdf.com/ru/download/5gvy9k69vwAc00wb5l40v1b56yntc2yrwb5q11423lgyssmsdnA92wgvtmdy6pvqcrwtk1fg2A0bs5b58wt7x0sfnkvtystAnx9g176rhpyd8wpmdtd3Amkf1mA3w18f4q1r61r456fx1w0cxAl5qrv290vrjwtpzgvds20mbAg577ggxxwq/41)
-
+https://www.ilovepdf.com/ru/download/5gvy9k69vwAc00wb5l40v1b56yntc2yrwb5q11423lgyssmsdnA92wgvtmdy6pvqcrwtk1fg2A0bs5b58wt7x0sfnkvtystAnx9g176rhpyd8wpmdtd3Amkf1mA3w18f4q1r61r456fx1w0cxAl5qrv290vrjwtpzgvds20mbAg577ggxxwq/41
 
 
 
