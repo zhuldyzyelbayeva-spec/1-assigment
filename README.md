@@ -1,6 +1,4 @@
 
-# Assignment 4 – Student Management System
-
 ## Project Overview
 This project is a simple Java program for managing students and courses.
 The goal of this project is to practice basic Object-Oriented Programming (OOP)
