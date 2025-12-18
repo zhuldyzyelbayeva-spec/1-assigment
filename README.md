@@ -100,7 +100,7 @@ assignment4-student-management/
 
 ## Screenshots
 
-![Program Output](docs/screenshots/output.png)
+(<img width="1210" height="1303" alt="output" src="https://github.com/user-attachments/assets/9ade716e-8d77-4243-a810-183b39080609" />)
 
 
 
