@@ -98,5 +98,10 @@ assignment4-student-management/
 ├── README.md
 └── .gitignore
 
+## Screenshots
+
+![Program Output](docs/screenshots/output.png)
+
+
 
 
