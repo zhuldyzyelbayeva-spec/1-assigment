@@ -98,7 +98,9 @@ assignment4-student-management/
 
 ## Screenshots
 
-![Test](./docs/screenshots/output.png)
+## Screenshots
+
+![Program Output](docsdocs/screenshots/output.png)
 
 
 
