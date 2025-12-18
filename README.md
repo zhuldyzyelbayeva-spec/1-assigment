@@ -100,7 +100,7 @@ assignment4-student-management/
 
 ## Screenshots
 
-![Program Output](docsdocs/screenshots/output.png)
+![Program Output](docs/screenshots/output.png)
 
 
 
