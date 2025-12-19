@@ -75,8 +75,6 @@ javac *.java
 java Main
 
 
-https://www.ilovepdf.com/ru/download/kbccxf25sdm5qkt22qpzymts8yf8pw71Ald9zy200sbw78mxg52gz05zqyftfclnwrybyg5ll4430rsxqp6Adtlmf7btj5hfhpz1ty3w1wr691y9z1z0h65Apmgf6A72rA93fq24zj3k8q6nvAq42phj8c5r0p2gdf1x3y4vm4z5r1kswkx1/30
-
 Reflection
 
 In this assignment, I learned how to work with classes and objects in Java.
@@ -100,8 +98,7 @@ assignment4-student-management/
 ## Screenshots
 
 ## Program Output
-
-![Program output](docs/screenshots/output.png)
+![Program Output](docs/screenshots/output.png)
 
 
 
